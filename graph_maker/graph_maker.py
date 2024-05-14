@@ -60,6 +60,7 @@ class GraphMaker:
             "Extract all the entities and relationships from the user-provided text as per the given ontology. Do not use any previous knowledge about the context."
             "Remember there can be multiple direct (explicit) or implied relationships between the same pair of nodes. "
             "Be consistent with the given ontology. Use ONLY the labels and relationships mentioned in the ontology. "
+            "capture possessives of any objects, for example: 'google's gmail team' implies gmail team is a part of google."
             "Format your output as a json with the following schema. \n"
             "[\n"
             "   {\n"
