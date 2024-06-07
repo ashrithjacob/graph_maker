@@ -1,5 +1,5 @@
 from .types import Ontology, LLMClient, Edge, Document
-from .llm_clients.groq_client import GroqClient
+from .llm_clients.groq_client import GroqClient, OpenAIClient
 from pydantic import ValidationError
 import json
 import re
@@ -61,6 +61,9 @@ class GraphMaker:
             "Remember there can be multiple direct (explicit) or implied relationships between the same pair of nodes. "
             "Be consistent with the given ontology. Use ONLY the labels and relationships mentioned in the ontology. "
             "capture possessives of any objects, for example: 'google's gmail team' implies gmail team is a part of google."
+            "ensure every noun is a node, and every verb is a relationship."
+            "Extract all possible factual details from the text."
+            "In case of 'and' used in the sentence, consider it as a separate relationship between the entities. So 'A and B are C' implies two relationships, 'A is C' and 'B is C'."
             "Format your output as a json with the following schema. \n"
             "[\n"
             "   {\n"
@@ -81,7 +84,7 @@ class GraphMaker:
         return response
 
     def parse_json(self, text: str):
-        green_logger.info(f"Trying JSON Parsing: \n{text}")
+        #green_logger.info(f"Trying JSON Parsing: \n{text}")
         try:
             parsed_json = json.loads(text)
             green_logger.info(f"JSON Parsing Successful!")
@@ -96,7 +99,12 @@ class GraphMaker:
         pattern = r"\}\s*,\s*\{"
         stripped_text = text.strip("\n[{]} ")
         # Split the json string into string of objects
-        splits = re.split(pattern, stripped_text, flags=re.MULTILINE | re.DOTALL)
+        splits = re.split(pattern,             "The user will provide you with an input text delimited by ```. "
+            "Extract all the entities and relationships from the user-provided text as per the given ontology. Do not use any previous knowledge about the context."
+            "Remember there can be multiple direct (explicit) or implied relationships between the same pair of nodes. "
+            "Be consistent with the given ontology. Use ONLY the labels and relationships mentioned in the ontology. "
+            "capture possessives of any objects, for example: 'google's gmail team' implies gmail team is a part of google."
+            "ensure every noun is a node, and every verb is a relationship.", flags=re.MULTILINE | re.DOTALL)
         # reconstruct object strings
         obj_string_list = list(map(lambda x: "{" + x + "}", splits))
         edge_list = []
@@ -138,7 +146,7 @@ class GraphMaker:
     def from_document(
         self, doc: Document, order: Union[int, None] = None
     ) -> List[Edge]:
-        verbose_logger.info(f"Using Ontology:\n{self._ontology}")
+        #verbose_logger.info(f"Using Ontology:\n{self._ontology}")
         graph = self.from_text(doc.text)
         for edge in graph:
             edge.metadata = doc.metadata

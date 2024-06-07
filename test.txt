@@ -1,0 +1,18 @@
+start:169.275| end:187.311| speaker:SPEAKER_01| text: persistence and ingenuity and my grandfather bought a d6 bulldozer which is a big bulldozer and he got it for like five thousand dollars because it was completely broken down it was like a 1955 caterpillar d6 bulldozer knew it would have cost i don't know more than a hundred thousand dollars
+start:188.132| end:192.577| speaker:SPEAKER_01| text: And we spent an entire summer fixing, like repairing that bulldozer.
+start:193.05700000000002| end:199.704| speaker:SPEAKER_01| text:And we'd, you know, use mail order to, to buy big gears for the transmission and they'd show up, they'd be too heavy to move.
+start:199.744| end:205.611| speaker:SPEAKER_01| text:So we'd have to build a crane, you know, just that kind of, kind of that problem solving mentality.
+start:205.631| end:209.41500000000002| speaker:SPEAKER_01| text:Um, he had it so powerfully, you know, he, he,
+start:210.589| end:211.69| speaker:SPEAKER_01| text: He did all of his own.
+start:212.611| end:215.012| speaker:SPEAKER_01| text:He didn't pick up the phone and call somebody.
+start:215.03199999999998| end:216.714| speaker:SPEAKER_01| text:He would figure it out on his own.
+start:217.35399999999998| end:218.615| speaker:SPEAKER_01| text:Doing his own veterinary work.
+start:219.376| end:225.64| speaker:SPEAKER_00| text:But just the image of the two of you fixing a D6 bulldozer and then going in for a little break at 1 p.m.
+start:225.66| end:227.221| speaker:SPEAKER_00| text:to watch soap opera.
+start:227.502| end:228.322| speaker:SPEAKER_01| text:Laying on the floor.
+start:228.622| end:230.304| speaker:SPEAKER_01| text:That's how he watched TV.
+start:230.464| end:232.565| speaker:SPEAKER_01| text:He was a really, really remarkable guy.
+start:232.60500000000002| end:234.30700000000002| speaker:SPEAKER_00| text:That's how I imagine Clint Eastwood also.
+start:234.327| end:236.829| speaker:SPEAKER_00| text:In all those westerns.
+start:237.62900000000002| end:239.99099999999999| speaker:SPEAKER_00| text:When he's not doing what he's doing, he's just watching.
+start:240.209| end:265.809| speaker:SPEAKER_00| text: soap operas all right I read that you fell in love with the idea of space and space exploration when you were five watching Neil Armstrong walking on the moon so let me ask you to look back at the historical context and impact of that so the space race from 1957 to 1969 between the Soviet Union and the US was in many ways epic it was

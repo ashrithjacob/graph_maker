@@ -1,0 +1,155 @@
+start:0.089| end:5.632| speaker:SPEAKER_01| text: The following is a conversation with Jeff Bezos, founder of Amazon and Blue Origin.
+start:6.352| end:10.895| speaker:SPEAKER_01| text:This is his first time doing a conversation of this kind and of this length.
+start:11.435| end:16.878| speaker:SPEAKER_01| text:And as he told me, it felt like we could have easily talked for many more hours, and I'm sure we will.
+start:17.818| end:19.519| speaker:SPEAKER_01| text:This is the Lex Friedman Podcast.
+start:19.859| end:23.321| speaker:SPEAKER_01| text:And now, dear friends, here's Jeff Bezos.
+start:24.619| end:29.321| speaker:SPEAKER_01| text: You spent a lot of your childhood with your grandfather on a ranch here in Texas.
+start:30.301| end:32.902| speaker:SPEAKER_01| text:And I heard you had a lot of work to do around the ranch.
+start:33.002| end:34.842| speaker:SPEAKER_01| text:So what's the coolest job you remember doing there?
+start:35.362| end:36.263| speaker:SPEAKER_00| text:Wow, coolest.
+start:37.183| end:37.883| speaker:SPEAKER_01| text:Most interesting.
+start:37.943| end:39.104| speaker:SPEAKER_01| text:Most memorable.
+start:39.164| end:40.524| speaker:SPEAKER_00| text:Most memorable.
+start:40.544| end:41.785| speaker:SPEAKER_00| text:Most impactful.
+start:41.845| end:44.525| speaker:SPEAKER_00| text:It's a real working ranch.
+start:44.745| end:48.747| speaker:SPEAKER_00| text:And I spent all my summers on that ranch from age four to 16.
+start:49.507| end:52.628| speaker:SPEAKER_00| text:And my grandfather was really taking me in the summers and the
+start:52.908| end:60.456| speaker:SPEAKER_00| text: In the early summers, he was letting me pretend to help on the ranch because, of course, a four-year-old is a burden, not a help in real life.
+start:61.137| end:63.6| speaker:SPEAKER_00| text:He was really just watching me and taking care of me.
+start:63.62| end:67.945| speaker:SPEAKER_00| text:He was doing that because my mom was so young.
+start:67.985| end:74.291| speaker:SPEAKER_00| text:She had me when she was 17, and so he was sort of giving her a break, and my grandmother and my grandfather would take me for the summers.
+start:75.012| end:78.713| speaker:SPEAKER_00| text: But as I got a little older, I actually was helpful on the ranch, and I loved it.
+start:78.853| end:79.594| speaker:SPEAKER_00| text:I was out there.
+start:80.254| end:85.056| speaker:SPEAKER_00| text:My grandfather had a huge influence on me, huge factor in my life.
+start:85.516| end:87.717| speaker:SPEAKER_00| text:I did all the jobs you would do on a ranch.
+start:88.979| end:97.362| speaker:SPEAKER_00| text: Fixed windmills and laid fences and pipelines and, you know, done all the things that any rancher would do.
+start:98.002| end:99.763| speaker:SPEAKER_00| text:Vaccinated the animals, everything.
+start:101.944| end:108.266| speaker:SPEAKER_00| text:But we had a, you know, my grandfather, after my grandmother died, I was about 12, and I kept coming to the ranch.
+start:108.606| end:110.307| speaker:SPEAKER_00| text:Then it was just him and me, just the two of us.
+start:111.227| end:117.204| speaker:SPEAKER_00| text: And he was completely addicted to the soap opera, The Days of Our Lives.
+start:117.925| end:119.75| speaker:SPEAKER_00| text:And we would go back to the ranch house
+start:120.129| end:121.27| speaker:SPEAKER_01| text: day around 1 p.m.
+start:121.35| end:123.252| speaker:SPEAKER_01| text:or so to watch Days of Our Lives.
+start:124.354| end:127.657| speaker:SPEAKER_01| text:Like sands through an hourglass, so are the Days of Our Lives.
+start:127.717| end:132.022| speaker:SPEAKER_01| text:Just the image of that, the two of us sitting there watching a soap opera.
+start:132.182| end:134.264| speaker:SPEAKER_01| text:He had these big crazy dogs.
+start:134.324| end:136.306| speaker:SPEAKER_01| text:It was really a very formative experience for me.
+start:136.526| end:141.292| speaker:SPEAKER_01| text:But the key thing about it for me, the great gift I got from it
+start:141.872| end:144.654| speaker:SPEAKER_01| text: was that my grandfather was so resourceful.
+start:144.855| end:146.836| speaker:SPEAKER_01| text:You know, he did everything himself.
+start:146.89600000000002| end:148.398| speaker:SPEAKER_01| text:He made his own veterinary tools.
+start:148.438| end:151.22| speaker:SPEAKER_01| text:He would make needles to suture the cattle up with.
+start:151.28| end:156.60399999999998| speaker:SPEAKER_01| text:He would find a little piece of wire and heat it up and pound it thin and drill a hole in it and sharpen it.
+start:157.245| end:162.99| speaker:SPEAKER_01| text:So, you know, you learn different things on a ranch than you would learn, you know, growing up in a city.
+start:163.35| end:164.43099999999998| speaker:SPEAKER_01| text:So self-reliance.
+start:164.531| end:164.791| speaker:SPEAKER_01| text:Yeah.
+start:165.132| end:169.115| speaker:SPEAKER_01| text:Like figuring out that you can solve problems with enough tools
+start:169.275| end:187.311| speaker:SPEAKER_01| text: persistence and ingenuity and my grandfather bought a d6 bulldozer which is a big bulldozer and he got it for like five thousand dollars because it was completely broken down it was like a 1955 caterpillar d6 bulldozer knew it would have cost i don't know more than a hundred thousand dollars
+start:188.132| end:192.577| speaker:SPEAKER_01| text: And we spent an entire summer fixing, like repairing that bulldozer.
+start:193.05700000000002| end:199.704| speaker:SPEAKER_01| text:And we'd, you know, use mail order to, to buy big gears for the transmission and they'd show up, they'd be too heavy to move.
+start:199.744| end:205.611| speaker:SPEAKER_01| text:So we'd have to build a crane, you know, just that kind of, kind of that problem solving mentality.
+start:205.631| end:209.41500000000002| speaker:SPEAKER_01| text:Um, he had it so powerfully, you know, he, he,
+start:210.589| end:211.69| speaker:SPEAKER_01| text: He did all of his own.
+start:212.611| end:215.012| speaker:SPEAKER_01| text:He didn't pick up the phone and call somebody.
+start:215.03199999999998| end:216.714| speaker:SPEAKER_01| text:He would figure it out on his own.
+start:217.35399999999998| end:218.615| speaker:SPEAKER_01| text:Doing his own veterinary work.
+start:219.376| end:225.64| speaker:SPEAKER_00| text:But just the image of the two of you fixing a D6 bulldozer and then going in for a little break at 1 p.m.
+start:225.66| end:227.221| speaker:SPEAKER_00| text:to watch soap opera.
+start:227.502| end:228.322| speaker:SPEAKER_01| text:Laying on the floor.
+start:228.622| end:230.304| speaker:SPEAKER_01| text:That's how he watched TV.
+start:230.464| end:232.565| speaker:SPEAKER_01| text:He was a really, really remarkable guy.
+start:232.60500000000002| end:234.30700000000002| speaker:SPEAKER_00| text:That's how I imagine Clint Eastwood also.
+start:234.327| end:236.829| speaker:SPEAKER_00| text:In all those westerns.
+start:237.62900000000002| end:239.99099999999999| speaker:SPEAKER_00| text:When he's not doing what he's doing, he's just watching.
+start:240.209| end:265.809| speaker:SPEAKER_00| text: soap operas all right I read that you fell in love with the idea of space and space exploration when you were five watching Neil Armstrong walking on the moon so let me ask you to look back at the historical context and impact of that so the space race from 1957 to 1969 between the Soviet Union and the US was in many ways epic it was
+start:267.21| end:268.832| speaker:SPEAKER_00| text: a rapid sequence of dramatic events.
+start:269.212| end:283.28499999999997| speaker:SPEAKER_00| text:First satellite to space, first human to space, first spacewalk, first uncrewed landing on the moon, then some failures, explosions, deaths on both sides, actually, and then the first human walking on the moon.
+start:284.026| end:289.551| speaker:SPEAKER_00| text:What are some of the more inspiring moments or insights you take away from that time, those few years, just 12 years?
+start:291.147| end:293.749| speaker:SPEAKER_01| text: Well, I mean, there's so much inspiring there.
+start:293.769| end:304.236| speaker:SPEAKER_01| text:You know, one of the great things to take away from that, one of the great von Braun quotes is, I have come to use the word impossible with great caution.
+start:305.017| end:306.95799999999997| speaker:SPEAKER_01| text:Yeah, yeah, yeah.
+start:307.55899999999997| end:311.602| speaker:SPEAKER_01| text:And so that's kind of the big story of Apollo is that things, you know, the –
+start:312.683| end:318.669| speaker:SPEAKER_01| text: Going to the moon was literally an analogy that people used for something that's impossible.
+start:319.17| end:322.473| speaker:SPEAKER_01| text:Oh yeah, you'll do that when men walk on the moon.
+start:323.515| end:325.096| speaker:SPEAKER_01| text:And of course it finally happened.
+start:326.258| end:330.642| speaker:SPEAKER_01| text:So I think it was pulled forward in time because of the space race.
+start:331.604| end:343.707| speaker:SPEAKER_01| text: I think with the geopolitical implications and how much resource was put into it, at the peak, that program was spending 2% or 3% of GDP on the Apollo program.
+start:344.267| end:345.427| speaker:SPEAKER_01| text:So much resource.
+start:345.788| end:348.108| speaker:SPEAKER_01| text:I think it was pulled forward in time.
+start:348.408| end:352.569| speaker:SPEAKER_01| text:We kind of did it ahead of when we, quote unquote, should have done it.
+start:353.549| end:356.63| speaker:SPEAKER_01| text:And so in that way, it's also a technical marvel.
+start:356.89| end:358.69100000000003| speaker:SPEAKER_01| text:I mean, it's truly incredible.
+start:360.249| end:365.17| speaker:SPEAKER_00| text: It's the 20th century version of building the pyramids or something.
+start:365.291| end:377.274| speaker:SPEAKER_00| text:It's an achievement that, because it was pulled forward in time, because it did something that had previously been thought impossible, it rightly deserves its place in the pantheon of great human achievements.
+start:377.745| end:383.788| speaker:SPEAKER_01| text: And of course, you named the projects, the rockets that Blue Origin is working on after some of the folks involved.
+start:384.168| end:386.409| speaker:SPEAKER_01| text:I don't understand why I didn't say New Gagarin.
+start:386.649| end:386.97| speaker:SPEAKER_01| text:Is that?
+start:386.99| end:388.931| speaker:SPEAKER_00| text:There's an American bias in the naming.
+start:389.071| end:389.951| speaker:SPEAKER_00| text:I apologize.
+start:389.971| end:390.79200000000003| speaker:SPEAKER_01| text:It's very strange.
+start:391.332| end:391.612| speaker:SPEAKER_00| text:Lex.
+start:392.072| end:393.553| speaker:SPEAKER_00| text:Just asking for a friend.
+start:393.593| end:395.294| speaker:SPEAKER_00| text:I'm a big fan of Gagarin's, though.
+start:395.974| end:403.158| speaker:SPEAKER_00| text: In fact, I think his first words in space I think are incredible.
+start:404.158| end:406.859| speaker:SPEAKER_00| text:He purportedly said, my God, it's blue.
+start:407.82| end:409.601| speaker:SPEAKER_00| text:And that really drives home.
+start:409.701| end:411.902| speaker:SPEAKER_00| text:No one had seen the Earth from space.
+start:412.402| end:414.983| speaker:SPEAKER_00| text:No one knew that we were on this blue planet.
+start:415.624| end:417.525| speaker:SPEAKER_00| text:No one knew what it looked like from out there.
+start:418.125| end:420.346| speaker:SPEAKER_00| text:And Gagarin was the first person to see it.
+start:421.075| end:430.358| speaker:SPEAKER_01| text: One of the things I think about is how dangerous those early days were for Gagarin, for Glenn, for everybody involved, like how big of a risk they were all taking.
+start:430.378| end:432.05899999999997| speaker:SPEAKER_00| text:They were taking huge risks.
+start:432.379| end:445.68399999999997| speaker:SPEAKER_00| text:I'm not sure what the Soviets thought about Gagarin's flight, but I think that the Americans thought that the Alan Shepard flight, the flight that New Shepard is named after, the first American in space, he'd been on his suborbital flight.
+start:446.345| end:450.153| speaker:SPEAKER_00| text: they thought he had about a 75% chance of success.
+start:451.396| end:454.302| speaker:SPEAKER_00| text:So, you know, that's a pretty big risk, a 25% risk.
+start:456.06100000000004| end:459.442| speaker:SPEAKER_01| text: It's kind of interesting that Alan Shepard is not quite as famous as John Glenn.
+start:459.462| end:464.36400000000003| speaker:SPEAKER_01| text:So for people who don't know, Alan Shepard is the first astronaut.
+start:464.665| end:466.265| speaker:SPEAKER_01| text:The first American in space.
+start:466.445| end:468.346| speaker:SPEAKER_01| text:American in suborbital flight.
+start:468.406| end:468.746| speaker:SPEAKER_01| text:Correct.
+start:468.866| end:471.327| speaker:SPEAKER_01| text:And then the first orbital flight is John Glenn.
+start:471.347| end:474.329| speaker:SPEAKER_00| text:John Glenn is the first American to orbit the Earth.
+start:474.769| end:479.971| speaker:SPEAKER_00| text:By the way, I have the most charming, sweet, incredible letter from John.
+start:480.029| end:490.132| speaker:SPEAKER_01| text: John Glenn, which I have framed and hang on my office wall, where he tells me how grateful he is that we have named New Glenn after him.
+start:490.672| end:492.972| speaker:SPEAKER_01| text:And he sent me that letter about a week before he died.
+start:492.992| end:495.693| speaker:SPEAKER_01| text:And it's really incredible.
+start:495.873| end:497.414| speaker:SPEAKER_01| text:It's also a very funny letter.
+start:497.434| end:503.975| speaker:SPEAKER_01| text:He's writing and he says, you know, this is a letter about New Glenn from the original Glenn.
+start:504.175| end:509.177| speaker:SPEAKER_01| text:And he's got a great sense of humor and he's very happy about it and grateful.
+start:509.197| end:509.85699999999997| speaker:SPEAKER_01| text:It's very sweet.
+start:510.267| end:513.249| speaker:SPEAKER_00| text: Does he say, P.S., don't mess this up, or is that?
+start:514.31| end:515.01| speaker:SPEAKER_01| text:No, he doesn't.
+start:515.09| end:515.731| speaker:SPEAKER_00| text:Make me look good.
+start:515.751| end:517.412| speaker:SPEAKER_00| text:He doesn't do that.
+start:517.432| end:519.453| speaker:SPEAKER_01| text:But John, wherever you are, we got you covered.
+start:519.733| end:519.933| speaker:SPEAKER_00| text:Good.
+start:521.014| end:523.696| speaker:SPEAKER_00| text:So back to maybe the big picture of space.
+start:524.396| end:533.002| speaker:SPEAKER_00| text:When you look up at the stars and think big, what do you hope is the future of humanity hundreds, thousands of years from now out in space?
+start:534.329| end:541.112| speaker:SPEAKER_01| text: I would love to see a trillion humans living in the solar system.
+start:541.653| end:547.736| speaker:SPEAKER_01| text:If we had a trillion humans, we would have, at any given time, a thousand Mozarts and a thousand Einsteins.
+start:549.837| end:553.478| speaker:SPEAKER_01| text:Our solar system would be full of life and intelligence and energy.
+start:553.498| end:560.802| speaker:SPEAKER_01| text:And we can easily support a civilization that large with all of the resources in the solar system.
+start:561.182| end:562.423| speaker:SPEAKER_00| text:So what do you think that looks like?
+start:563.383| end:579.751| speaker:SPEAKER_01| text: giant space stations yeah the only way to get to that vision is with giant space stations you know the planetary surfaces are just way too small um so you can i mean unless you turn them into giant space stations or something but but yeah we will take materials from the moon and from
+start:580.888| end:590.8| speaker:SPEAKER_01| text: near-Earth objects and from the asteroid belt and so on, and we'll build giant O'Neill-style colonies, and people will live in those.
+start:590.9| end:593.784| speaker:SPEAKER_01| text:And they have a lot of advantages over planetary surfaces.
+start:594.144| end:597.027| speaker:SPEAKER_01| text:You can spin them to get normal Earth gravity.
+start:597.728| end:599.09| speaker:SPEAKER_01| text:You can put them where you want them.
+start:599.37| end:599.9110000000001| speaker:SPEAKER_01| text:I think most
+start:600.009| end:610.601| speaker:SPEAKER_01| text: People are going to want to live near Earth, not necessarily in Earth orbit, but in Earth vicinity orbits.
+start:611.201| end:618.529| speaker:SPEAKER_01| text:And so they can move relatively quickly back and forth between their station and Earth.
+start:619.33| end:624.153| speaker:SPEAKER_01| text: I think a lot of people, especially in the early stages, are not going to want to give up Earth altogether.
+start:624.173| end:626.254| speaker:SPEAKER_01| text:They go to Earth for vacation.
+start:626.694| end:626.934| speaker:SPEAKER_01| text:Yeah.
+start:627.274| end:631.576| speaker:SPEAKER_01| text:Same way that you might go to Yellowstone National Park for vacation.
+start:631.616| end:644.903| speaker:SPEAKER_01| text:People will get to choose whether they live on Earth or whether they live in space, but they'll be able to use much more energy and much more material resource in space than they would be able to use on Earth.
+start:645.441| end:649.284| speaker:SPEAKER_00| text: One of the interesting ideas you had is to move the heavy industry away from Earth.
+start:649.744| end:660.191| speaker:SPEAKER_00| text:So people sometimes have this idea that somehow space exploration is in conflict with the celebration of the planet Earth, that we should focus on preserving Earth.
+start:660.211| end:666.4159999999999| speaker:SPEAKER_00| text:And basically your idea is that space travel and space exploration is a way to preserve Earth.
+start:666.876| end:667.476| speaker:SPEAKER_01| text:Exactly.
+start:667.496| end:669.678| speaker:SPEAKER_01| text:This planet, we've sent
+start:670.9929999999999| end:696.583| speaker:SPEAKER_01| text: robotic probes to all the planets we know that this is the good one not to play favorites or anything but earth really is the good planet it's an amazing it's it's amazing the ecosystem we have here all of the life and the lush uh the plant life and you know the water resources everything this planet is really extraordinary and of course we evolved on this planet so of course it's perfect for us
+start:697.332| end:701.756| speaker:SPEAKER_01| text: but it's also perfect for all the advanced life forms on this planet, all the animals and so on.
+start:702.296| end:703.938| speaker:SPEAKER_01| text:And so this is a gem.
+start:704.1179999999999| end:705.479| speaker:SPEAKER_01| text:We do need to take care of it.
+start:706.079| end:719.651| speaker:SPEAKER_01| text:And as we enter the Anthropocene, as we humans have gotten so sophisticated and large and impactful, as we stride across this planet, you know, it's that,

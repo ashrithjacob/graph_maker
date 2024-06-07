@@ -1,17 +1,20 @@
-The following is a conversation with Jeff Bezos, founder of Amazon and Blue Origin.
-This is his first time doing a conversation of this kind and of this length.
-And as he told me, it felt like we could have easily talked for many more hours, and I'm sure we will.
-This is the Lex Friedman Podcast.
-And now, dear friends, here's Jeff Bezos.
-You spent a lot of your childhood with your grandfather on a ranch here in Texas.
-And I heard you had a lot of work to do around the ranch.
-So what's the coolest job you remember doing there?
-Wow, coolest.
-Most interesting.
-Most memorable.
-Most memorable.
-Most impactful.
-It's a real working ranch.
-And I spent all my summers on that ranch from age four to 16.
-And my grandfather was really taking me in the summers and the
-In the early summers, he was letting me pretend to help on the ranch because, of course, a four-year-old is a burden, not a help in real life.
+start:0.089| end:5.632| speaker:SPEAKER_01| text: The following is a conversation with Jeff Bezos, founder of Amazon and Blue Origin.
+start:6.352| end:10.895| speaker:SPEAKER_01| text:This is his first time doing a conversation of this kind and of this length.
+start:11.435| end:16.878| speaker:SPEAKER_01| text:And as he told me, it felt like we could have easily talked for many more hours, and I'm sure we will.
+start:17.818| end:19.519| speaker:SPEAKER_01| text:This is the Lex Friedman Podcast.
+start:19.859| end:23.321| speaker:SPEAKER_01| text:And now, dear friends, here's Jeff Bezos.
+start:24.619| end:29.321| speaker:SPEAKER_01| text: You spent a lot of your childhood with your grandfather on a ranch here in Texas.
+start:30.301| end:32.902| speaker:SPEAKER_01| text:And I heard you had a lot of work to do around the ranch.
+start:33.002| end:34.842| speaker:SPEAKER_01| text:So what's the coolest job you remember doing there?
+start:35.362| end:36.263| speaker:SPEAKER_00| text:Wow, coolest.
+start:37.183| end:37.883| speaker:SPEAKER_01| text:Most interesting.
+start:37.943| end:39.104| speaker:SPEAKER_01| text:Most memorable.
+start:39.164| end:40.524| speaker:SPEAKER_00| text:Most memorable.
+start:40.544| end:41.785| speaker:SPEAKER_00| text:Most impactful.
+start:41.845| end:44.525| speaker:SPEAKER_00| text:It's a real working ranch.
+start:44.745| end:48.747| speaker:SPEAKER_00| text:And I spent all my summers on that ranch from age four to 16.
+start:49.507| end:52.628| speaker:SPEAKER_00| text:And my grandfather was really taking me in the summers and the
+start:52.908| end:60.456| speaker:SPEAKER_00| text: In the early summers, he was letting me pretend to help on the ranch because, of course, a four-year-old is a burden, not a help in real life.
+start:61.137| end:63.6| speaker:SPEAKER_00| text:He was really just watching me and taking care of me.
+start:63.62| end:67.945| speaker:SPEAKER_00| text:He was doing that because my mom was so young.
+start:67.985| end:74.291| speaker:SPEAKER_00| text:She had me when she was 17, and so he was sort of giving her a break, and my grandmother and my grandfather would take me for the summers.

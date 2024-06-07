@@ -1,6 +1,8 @@
 from groq import Groq
 from openai import OpenAI
 from ..types import LLMClient
+from dotenv import load_dotenv
+load_dotenv()
 
 client = Groq()
 client2 = OpenAI()
@@ -55,7 +57,7 @@ class OpenAIClient(LLMClient):
     _temperature: float
     _top_p: float
 
-    def __init__(self, model: str = "gpt-4-turbo", temperature=0.2, top_p=1):
+    def __init__(self, model: str = "gpt-4-turbo", temperature=0.0, top_p=1):
 
         self._model = model
         self._temperature = temperature
